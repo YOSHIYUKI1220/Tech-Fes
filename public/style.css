@@ -1,0 +1,2 @@
+body{text-align:center;font-family:sans-serif;background:url('images/bg.png') no-repeat center top;background-size:cover}
+#stamps{display:grid;grid-template-columns:repeat(5,1fr);gap:5px;width:300px;margin:auto}button{padding:10px;background:#ff4081;color:#fff;border:none;border-radius:8px}h1{color:#ff4081}
