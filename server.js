@@ -1,3 +1,4 @@
+const ADMIN_PASSWORD = "gakuen123"; // 変更してください
 const express = require("express");
 const fs = require("fs");
 
